@@ -1,0 +1,19 @@
+body {
+    background-color: lightblue;
+    text-align: center;
+}
+div {
+    display: block;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 10px;
+    margin-left: 10px
+}
+table {
+    border: 1px solid;
+}
+
+.movie-app > .row {
+	overflow-x: auto;
+	flex-wrap: nowrap;
+}
